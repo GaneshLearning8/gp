@@ -1,0 +1,3 @@
+l: list[int] = [15,3,99,32,2,101]
+print('min=',min(l))
+print('max=',max(l))
