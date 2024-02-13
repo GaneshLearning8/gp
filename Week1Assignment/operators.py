@@ -76,10 +76,10 @@ else:
 # print('11:00 AM'in result)
 # print('11:00 AM'in x)
 
-# print('11:00 AM'not in result)
-# print('11:00 AM'not in x)
-# print('11AM'not in result)
-# print('11AM'not in x)
+print('11:00 AM'not in result)
+print('11:00 AM'not in x)
+print('11AM'not in result)
+print('11AM'not in x)
 
 # #idenity operator: is, is not
 
